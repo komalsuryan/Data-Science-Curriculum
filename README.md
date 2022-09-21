@@ -1,5 +1,5 @@
 # Data-Science-Curriculum
-Project Introduction 
+## Project Introduction 
 Team Data Science
 Team Memebers:
 Komal Suryan (002747707)	
