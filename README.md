@@ -2,10 +2,10 @@
 ## Project Introduction 
 # Team Data Science
 ## Team Memebers:
-# Komal Suryan (002747707)	
-# Siddhesh Dhavale	 (002772218)	
-# Aishwarya Venkatesan (001569213)	
-# Amisha Kalhan (002790306)
+ * Komal Suryan (002747707)	
+ * Siddhesh Dhavale	 (002772218)	
+ * Aishwarya Venkatesan (001569213)	
+ * Amisha Kalhan (002790306)
 ## Data Science Curriculum: Studying the industry-academia interlude in DS Domain and how this gap can be bridged	
 #
 As Big data analytics presents an array of applications; its importance is growing for contemporary organisations. The vast amount of data and the competitive advantage of analysing triggers digital transformations throughout many industries. Despite the towering demands of data science, there seems to be a lack of skilled professionals. 
