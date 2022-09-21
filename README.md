@@ -16,9 +16,9 @@ To identify the academia-industry disparity, we will collect curriculum samples 
 Other than degree courses and certification programs, we will also include a curriculum outline of Data Science Massive Open Online Courses (MOOCs) which include self-paced courses offered by Coursera, Edx, Khan Academy, Udacity, Udemy, Kaggle etc. The curriculum data will be obtained from the official websites of universities, institutes, and EdTech companies. 
 
 
-# Type of Study Programs / Degree Courses: 
-# -> Masters of Science: Data Science & Analytics Master of Science: Big Data 
-# -> MTech in Computational Data Science MBA: Business Analytics
-# -> MBA: Data Analytics
-# -> Institutional Courses: Data Science & Big Data 
-# -> Data Science Degree Certifications Training Programs • Data Science: MOOCs 
+* Type of Study Programs / Degree Courses: 
+  * Masters of Science: Data Science & Analytics Master of Science: Big Data 
+  * MTech in Computational Data Science MBA: Business Analytics
+  * MBA: Data Analytics
+  * Institutional Courses: Data Science & Big Data 
+  * Data Science Degree Certifications Training Programs • Data Science: MOOCs 
