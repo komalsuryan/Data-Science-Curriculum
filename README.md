@@ -1,7 +1,7 @@
 # Data-Science-Curriculum
 # Project Introduction 
 # Team Data Science
-## Team Memebers:
+## Team Members:
  * Komal Suryan (002747707)	
  * Siddhesh Dhavale	 (002772218)	
  * Aishwarya Venkatesan (001569213)	
